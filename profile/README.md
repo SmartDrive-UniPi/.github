@@ -1,7 +1,8 @@
-## Smart Drive - Teleoperated & Autonomous Driving 🏎️📷🎓
-# Docente referente: Marco Gabiccini, Francesco Frendo
+# Smart Drive - Teleoperated & Autonomous Driving 🏎️📷🎓
+## Docente referente: Marco Gabiccini, Francesco Frendo
 
 **[ITA]** 🇮🇹
+
 Il progetto, rivolto agli studenti e alle studentesse del Corso di Laurea Magistrale in Ingegneria dei
 Veicoli e con il coinvolgimento di studenti tutor della LM in Ingegneria Robotica e
 dell’Automazione, consiste nello sviluppo di un sistema di guida remota di un veicolo in scala
@@ -27,6 +28,7 @@ l’acquisizione di grandezze utili per la stima dello stato di sollecitazione e
 alcuni componenti del veicolo stesso e di grandezze centrali nello studio della dinamica veicolo.
 
 **[ENG]** 🇬🇧
+
 The project, aimed at students of the Master's Degree Course in Vehicle Engineering and with the
 involvement of student tutors from the Master's Degree in Robotics and Automation Engineering,
 consists in the development of a remote driving system for a scale vehicle using a driving
